@@ -1,0 +1,18 @@
+curl 'https://classroom.google.com/u/0/v7/writecomment?_reqid=20245237&rt=j' \
+  -H 'authority: classroom.google.com' \
+  -H 'pragma: no-cache' \
+  -H 'cache-control: no-cache' \
+  -H 'x-same-domain: 1' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36' \
+  -H 'content-type: application/x-www-form-urlencoded;charset=UTF-8' \
+  -H 'accept: */*' \
+  -H 'origin: https://classroom.google.com' \
+  -H 'x-client-data: CJa2yQEIprbJAQipncoBCKzHygEI9cfKAQjAz8oBCNzVygEI75fLAQi6m8sBGOy4ygEYisHKAQ==' \
+  -H 'sec-fetch-site: same-origin' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'referer: https://classroom.google.com/u/0/c/MTUxNzYwNjI3ODI2/a/MjMyMzE0ODU2MTQz/details' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'cookie: ANID=AHWqTUlZ_G9SUV90JUDYzBP6w875Y72ErtZUneVLsiiVjwzWPl65Tkh1Yoc9ghkw; SEARCH_SAMESITE=CgQI1JAB; CONSENT=YES+US.en+20170312-18-0; SID=4AdvIUknTxmR9yjwu3wOY6wbqprchyGQFmIo48VXdO8YDv8i9pVlRuablI4G7DKR8fKUlQ.; __Secure-3PSID=4AdvIUknTxmR9yjwu3wOY6wbqprchyGQFmIo48VXdO8YDv8iHsdxxj8Xd-BpJIj2cpGCfg.; HSID=Ao--GZazOs5BIGhS4; SSID=AE08y2I04Hfi9q28S; APISID=MFhxZs1O7dMIdGRC/AI3TJmvQFRmzA2Etv; SAPISID=dFpPuNtLwxIBQSXN/AUjMY_PSxrdm_WKSs; __Secure-3PAPISID=dFpPuNtLwxIBQSXN/AUjMY_PSxrdm_WKSs; 1P_JAR=2020-12-11-17; OTZ=5756734_76_76_104100_72_446760; NID=204=Jt8GUdSGOiGfmW8tE-9gldx8vrz5Dju-CX8g3YkORNFXrZ4RqBK0f4li4QjXx2aUmvRIInzu2iAP9YphPNrdrqGEqX5xxazq62UxuOZqMY01GGXgBVDBonyjQTziLpce3bIKZxxUz5VWXlnUQ2F_u5FkqQv1jFm9j0S812QMNaUyAFcvYUPyMsTHHLeX0CnkG0C4t5l7rLoQEVgkt9PF5AmUrLWMxldpsGhR5Mh0nIJZ255qo_T7IfPPUkRKRaejqehksSVG8UZkYX-nIDRSECmO8K6MlQg5peg19z4K9XDxClECI9HFc2eBrwwZ-kS1eIqTIFSsWsuX-C0ReYefYPhVWUBjKouIHcIZBQ; SIDCC=AJi4QfGZ8GkLkpyzKkoTRet0RVhi0-BYOvTsoadsZoQvRpZhlZGR1LKZx7-9_6E-9c3r5aAemm4; __Secure-3PSIDCC=AJi4QfHKkESyKoelLWeln7wUjiqXFvpyC3mVapqD5z26QsB-siKnqRANNWv_cf4YlI9u7KIvbsA' \
+  --data-raw 'f.req=%5B%5B2%5D%2C%5B%5B%5Bnull%2Cnull%2C%5B%22331778467%22%2C%5B%22232314856143%22%2C%5B%22151760627826%22%5D%5D%5D%2C3%5D%2C%5B%5Bnull%2Cnull%2C%5B%22331778467%22%2C%5B%22232314856143%22%2C%5B%22151760627826%22%5D%5D%5D%2C3%5D%2Cnull%2Cnull%2Cnull%2C%5B%22331778467%22%5D%2C%22Have%20you%20graded%20it%20yet%3F%22%2Cnull%2Cnull%2C%5B1%5D%5D%5D%5D%2C%5Btrue%2Ctrue%2Ctrue%2Ctrue%2Ctrue%2Cnull%2C%5Btrue%5D%2Ctrue%5D%5D&token=ABFGqeluCna2cfeR-MZEJJkPSpcLE4bL6w%3A1607708031988&' \
+  --compressed
